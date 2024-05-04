@@ -88,7 +88,8 @@ AE_Geometry_and_Conditional_Latent_Diffusion
 and run the ```get_central_energy.ipynb``` notebook for training the energy part.
 
 ### Energy spatial Map 
-Here is the absolute binding energy based on the displacement of the ligand from ground truth location. 
+Here is the absolute binding energy based on the displacement of the ligand from ground truth location.
+ 
 ![](./energy_plot.jpg)
 
 ### Output files 
@@ -96,4 +97,5 @@ the output Pickle file for the enrgy map and our CNN loss is available in the ``
 
 ## Acknowledgements
 We wanted to thank Dr. Yang Shen and Yuning You for their invaluable help throughout this project.
+
 
