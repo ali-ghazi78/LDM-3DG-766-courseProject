@@ -95,6 +95,13 @@ Here is the absolute binding energy based on the displacement of the ligand from
 ### Output files 
 the output Pickle file for the enrgy map and our CNN loss is available in the ``` energy_grid.pkl``` and ``` loss_z.pkl``` files.
 
+
+### Contributers
+1. Seyed Ali Ghazi Asgar
+2. Amir Hossein Rahmati
+3. Milad Saadat
+
+
 ## Acknowledgements
 We wanted to thank Dr. Yang Shen and Yuning You for their invaluable help throughout this project.
 
