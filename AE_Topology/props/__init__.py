@@ -1,1 +1,0 @@
-from props.properties import *
